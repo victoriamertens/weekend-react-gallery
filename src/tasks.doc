@@ -14,13 +14,13 @@
 [__] Build GalleryItem.JSX 
     _x_ Boilerplate for component 
     _x_ Set incoming argument to props 
-    __ set local variable for all incoming data 
-    __ set local variable for id 
-    __ set local variable for incoming GET function 
-    __ write the PUT function (updateLikes)
+    _x_ set local variable for all incoming data 
+    _x_ set local variable for id 
+    _x_ set local variable for incoming GET function 
+    _x_ write the PUT function (updateLikes)
     __ write the skeleton for basic render 
-        __ write <image> 
-        __ write <p> for description 
+        _x_ write <image> 
+        _x_ write <p> for description 
         __ write <button>Like</button> 
         __ write <p> ${variable} people like this!
         __ write <p> 0 people like this :( 
@@ -35,3 +35,5 @@
     __ use flexbox for styling 
     __ try the negative margin trick for like button? 
     STRETCH: __ Can I animate the card flip? 
+
+[__] Make sure the descriptions are accurate and written for each. 
