@@ -1,5 +1,5 @@
 [__] Build APP.JSX 
-    __ Write GET (fetchGalleryItems)
+    _x_ Write GET (fetchGalleryItems)
     __ Set State data for incoming data [galleryItems,setGalleryItems)]
     __ Build Header Component 
     __ Add <GalleryList /> 
