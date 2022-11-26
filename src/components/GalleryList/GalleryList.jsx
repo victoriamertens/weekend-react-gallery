@@ -8,7 +8,7 @@ export default function GalleryList(props) {
     <>
       <p>Testing Return</p>
       {galleryItems.map((item) => {
-        console.log('in map');
+        console.log('in map', item.id);
         return (
           <GalleryItem
             key={item.id}
