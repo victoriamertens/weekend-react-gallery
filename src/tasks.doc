@@ -1,19 +1,19 @@
-[__] Build APP.JSX 
+[_x_] Build APP.JSX 
     _x_ Write GET (fetchGalleryItems)
     _x_ Set State data for incoming data [galleryItems,setGalleryItems)]
     _x_ Build Header Component 
-    __ Add <GalleryList /> 
-        __ props = GET and Data 
+    _x_ Add <GalleryList /> 
+        _x_ props = GET and Data 
 [__] Build GalleryList.JSX
-    __ Boilerplate for component 
-    __ Set incoming argument to props 
-    __ Set local variable to the incoming data (const data = )
-    __ Set local variable to incoming function (const fetchGalleryItems = )
-    __ Write .map function for <GalleryItem />  
-        __ props = GET and data of individual gallery item (item)
+    _x_ Boilerplate for component 
+    _x_ Set incoming argument to props 
+    _x_ Set local variable to the incoming data (const data = )
+    _x_ Set local variable to incoming function (const fetchGalleryItems = )
+    _x_ Write .map function for <GalleryItem />  
+        _x_ props = GET and data of individual gallery item (item)
 [__] Build GalleryItem.JSX 
-    __ Boilerplate for component 
-    __ Set incoming argument to props 
+    _x_ Boilerplate for component 
+    _x_ Set incoming argument to props 
     __ set local variable for all incoming data 
     __ set local variable for id 
     __ set local variable for incoming GET function 
