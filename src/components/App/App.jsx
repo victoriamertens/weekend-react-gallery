@@ -33,8 +33,6 @@ function App() {
         galleryItems={galleryItems}
         fetchGalleryItems={fetchGalleryItems}
       />
-      <p>Gallery goes here</p>
-      <img src="images/gallery-photo-1.png" />
     </div>
   );
 }

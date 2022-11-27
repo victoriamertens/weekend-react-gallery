@@ -18,17 +18,17 @@
     _x_ set local variable for id 
     _x_ set local variable for incoming GET function 
     _x_ write the PUT function (updateLikes)
-    __ write the skeleton for basic render 
+    _x_ write the skeleton for basic render 
         _x_ write <image> 
         _x_ write <p> for description 
-        __ write <button>Like</button> 
-        __ write <p> ${variable} people like this!
-        __ write <p> 0 people like this :( 
-    __ Add Put funciton into button PLUS run GET 
-        __ the sent data = /gallery/id
-    __ Add Conditional Render for image versus description 
-        __ research how to control toggle and clicked status for rendering 
-    __ Add conditional render for the likes post based on number of likes 
+        _x_ write <button>Like</button> 
+        _x_ write <p> ${variable} people like this!
+        _x_ write <p> 0 people like this :( 
+    _x_ Add Put funciton into button PLUS run GET 
+        _x_ the sent data = /gallery/id
+    x__ Add Conditional Render for image versus description 
+        _x_ research how to control toggle and clicked status for rendering 
+    _x_ Add conditional render for the likes post based on number of likes 
 [__] Write CSS styling for cards 
     __ look up how to apply css to individual components (file structure)
     __ source CSS properly into html 
