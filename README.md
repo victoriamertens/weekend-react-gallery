@@ -1,9 +1,7 @@
-# Project Name
+# My Life Gallery
 
-[Project Instructions](./INSTRUCTIONS.md), this line may be removed once you have updated the README.md
+[For this project I created a gallery page to share pictures of things that are important to you. Visitors can click on an image to see a description and use a button to "like" an image.
 
 ## Description
 
-Your project description goes here. What problem did you solve? How did you solve it?
-
-Additional README details can be found [here](https://github.com/PrimeAcademy/readme-template/blob/master/README.md).
+This project was created using React. By building a component for each thing, I was able to streamline the creation process by re-using code.
